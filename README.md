@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Alejandro Moya</h1>
 <h3 align="center">A passionate computer science student from Ecuador</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Afkerian&label=Profile%20views&color=0e75b6&style=flat" alt="Afkerian" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Afkerian&label=Profile%20views&color=0e75b6&style=flat" alt="Afkerian" width="100" height="30" /> <a href="https://twitter.com/Alejandro_1Ec" target="blank"><img src="https://img.shields.io/twitter/follow/Alejandro_1Ec?logo=twitter&style=for-the-badge" alt="Alejandro_1Ec" width="200" height="30"/></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Alejandro_1Ec" target="blank"><img src="https://img.shields.io/twitter/follow/Alejandro_1Ec?logo=twitter&style=for-the-badge" alt="Alejandro_1Ec" /></a> </p>
+<p  align="center">
+<script src="https://apis.google.com/js/platform.js"></script>
 
-- 🔭 I’m currently working on PoliCalendar Bot
+<div class="g-ytsubscribe" data-channelid="UC-xLl-vqCjxHSCKI-7ukr1w" data-layout="full" data-count="default"></div> </p>
+- 🔭 I’m currently working on [PoliCalendar Bot](https://github.com/Afkerian/PoliCalendarBot).
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning [Django](https://www.djangoproject.com/)
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at [Portafolio](https://afkerian.github.io/)
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on [Science Code](https://afkerian.github.io/)
 
-- 📫 How to reach me 
+- 📫 How to reach me [Contact Me](https://afkerian.github.io/)
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences [Curriculum Vitae](https://afkerian.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
@@ -36,4 +38,5 @@
 Terms
 Privacy
 Security
+
 
