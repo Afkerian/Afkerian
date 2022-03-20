@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alejandro Moya</h1>
 <h3 align="center">A passionate computer science student from Ecuador</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Afkerian&label=Profile%20views&color=0e75b6&style=flat" alt="Afkerian" width="100" height="30" /> <a href="https://twitter.com/Alejandro_1Ec" target="blank"><img src="https://img.shields.io/twitter/follow/Alejandro_1Ec?logo=twitter&style=for-the-badge" alt="Alejandro_1Ec" width="200" height="30"/></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Afkerian&label=Profile%20views&color=0e75b6&style=flat" alt="Afkerian" height="20" /> <a href="https://twitter.com/Alejandro_1Ec" target="blank"><img src="https://img.shields.io/twitter/follow/Alejandro_1Ec?logo=twitter&style=for-the-badge" alt="Alejandro_1Ec" height="20"/></a> <a href="https://www.youtube.com/channel/UC-xLl-vqCjxHSCKI-7ukr1w" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC-xLl-vqCjxHSCKI-7ukr1w?label=Science%20Code&logo=YouTube&style=social" alt="Science Code" height="20"/></a><a> [![paypal.me/ScienceCodeEcuador](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/ScienceCodeEcuador?country.x=EC&locale.x=es_XC)</a> </p>
 
-<p  align="center"> <img src="https://apis.google.com/js/platform.js" <div class="g-ytsubscribe" data-channelid="UC-xLl-vqCjxHSCKI-7ukr1w" data-layout="full" data-count="default"> </div> /> </p>
+- 
+
 
 - 🔭 I’m currently working on [PoliCalendar Bot](https://github.com/Afkerian/PoliCalendarBot).
 
