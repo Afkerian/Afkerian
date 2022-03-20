@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/Alejandro_1Ec" target="blank"><img src="https://img.shields.io/twitter/follow/Alejandro_1Ec?logo=twitter&style=for-the-badge" alt="Alejandro_1Ec" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on PoliCalendar Bot
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Django
 
 - 👨‍💻 All of my projects are available at 
 
@@ -30,8 +30,10 @@
 <a href="https://www.android.com/intl/es_es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="android" width="40" height="40"/> </a>
 </p>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Afkerian&show_icons=true&locale=en" alt="Afkerian" /></p>
-© 2021 GitHub, Inc.
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Afkerian&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight" alt="Afkerian" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afkerian&layout=compact&theme=tokyonight&langs_count=10t" alt="Afkerian" /></p>
+© 2022 GitHub, Inc.
 Terms
 Privacy
 Security
+
