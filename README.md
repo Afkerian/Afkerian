@@ -3,10 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Afkerian&label=Profile%20views&color=0e75b6&style=flat" alt="Afkerian" width="100" height="30" /> <a href="https://twitter.com/Alejandro_1Ec" target="blank"><img src="https://img.shields.io/twitter/follow/Alejandro_1Ec?logo=twitter&style=for-the-badge" alt="Alejandro_1Ec" width="200" height="30"/></a> </p>
 
-<p  align="center">
-<script src="https://apis.google.com/js/platform.js"></script>
+<p  align="center"> <img src="https://apis.google.com/js/platform.js" <div class="g-ytsubscribe" data-channelid="UC-xLl-vqCjxHSCKI-7ukr1w" data-layout="full" data-count="default"> </div> /> </p>
 
-<div class="g-ytsubscribe" data-channelid="UC-xLl-vqCjxHSCKI-7ukr1w" data-layout="full" data-count="default"></div> </p>
 - 🔭 I’m currently working on [PoliCalendar Bot](https://github.com/Afkerian/PoliCalendarBot).
 
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/)
