@@ -32,6 +32,7 @@
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Afkerian&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight" alt="Afkerian" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afkerian&layout=compact&theme=tokyonight&langs_count=10t" alt="Afkerian" /></p>
+
 © 2022 GitHub, Inc.
 Terms
 Privacy
