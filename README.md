@@ -13,7 +13,7 @@
   <a href="https://github.com/Afkerian" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/alejandro-moya-barragan" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandromoya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://twitter.com/Alejandro_1Ec" target="_blank">
@@ -28,7 +28,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  Computer Science Engineer with <strong>6+ years</strong> designing and leading <strong>Generative AI</strong>, multi-agent systems, and cloud-native architectures in production. Currently <strong>CTO of two tech companies</strong> — <a href="#">Agents Booster</a> and <a href="#">Dynecron</a> — where I own the technical vision, architecture, and delivery of AI products end-to-end.
+  Computer Science Engineer with <strong>6+ years</strong> designing and leading <strong>Generative AI</strong>, multi-agent systems, and cloud-native architectures in production. Currently <strong>CTO of two tech companies</strong> — Agents Booster and Dynecron — where I own the technical vision, architecture, and delivery of AI products end-to-end.
   <br><br>
   My focus areas: <strong>LangChain · RAG · Multi-Agent Orchestration · MLOps · Microservices</strong>. I also teach Computer Science and AI subjects as a university professor and mentor leaders adopting GenAI through Tobe Company's <em>Next Leaders</em> program.
   <br><br>
@@ -102,12 +102,18 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afkerian&count_private=true&show_icons=true&theme=tokyonight" alt="Alejandro's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afkerian&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" width="400"/>
+  <a href="https://github.com/Afkerian">
+    <img src="https://github-readme-stats.vercel.app/api?username=Afkerian&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Alejandro's GitHub Stats" width="400"/>
+  </a>
+  <a href="https://github.com/Afkerian">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afkerian&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" width="400"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afkerian&theme=tokyonight" alt="Contribution Streak" width="400"/>
+  <a href="https://github.com/Afkerian">
+    <img src="https://streak-stats.demolab.com?user=Afkerian&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="400"/>
+  </a>
 </p>
 
 <p align="center">
@@ -121,7 +127,7 @@
   Open to collaborations on GenAI, multi-agent systems, and cloud-native AI architectures.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-moya-barragan" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandromoya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="mailto:alejandro.moyab@outlook.com" target="_blank">
