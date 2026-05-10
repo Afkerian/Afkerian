@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro Moya</h1>
-<h3 align="center">AI Vision Specialist | Founder of Dynecron | Open Source Contributor</h3>
+<h3 align="center">CTO @ Agents Booster & Dynecron · GenAI Engineer · AI Solutions Architect</h3>
 
+<p align="center">
+  <em>Building production-grade AI systems — Multi-Agent · RAG · LLMOps · Cloud-Native</em>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Afkerian&label=Profile%20views&color=0e75b6&style=flat" alt="Afkerian" height="25"/>
@@ -10,7 +13,7 @@
   <a href="https://github.com/Afkerian" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/alejandromoya" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-moya-barragan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://twitter.com/Alejandro_1Ec" target="_blank">
@@ -21,96 +24,114 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://paypal.me/ScienceCodeEcuador?country.x=EC&locale.x=es_XC" target="_blank">
-    <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="PayPal" height="25"/>
-  </a>
-</p>
-
 ---
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  I am a Computer Science student at <strong>Escuela Politécnica Nacional</strong> with a background in <strong>Mechatronics Engineering</strong>. Currently, I lead the <strong>Association of Systems Engineering Students</strong>, the largest student organization at my university. 
+  Computer Science Engineer with <strong>6+ years</strong> designing and leading <strong>Generative AI</strong>, multi-agent systems, and cloud-native architectures in production. Currently <strong>CTO of two tech companies</strong> — <a href="#">Agents Booster</a> and <a href="#">Dynecron</a> — where I own the technical vision, architecture, and delivery of AI products end-to-end.
   <br><br>
-  I'm passionate about open-source contributions, artificial intelligence, and software development. I also enjoy building RC planes and playing chess during my free time.
+  My focus areas: <strong>LangChain · RAG · Multi-Agent Orchestration · MLOps · Microservices</strong>. I also teach Computer Science and AI subjects as a university professor and mentor leaders adopting GenAI through Tobe Company's <em>Next Leaders</em> program.
+  <br><br>
+  Open-source contributor. In my free time: RC planes ✈️ and chess ♟️.
 </p>
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <a href="https://angular.io/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="40" height="40"/>
-</a>
+<h3 align="center">What I'm working on</h3>
 
-  </a>
-  <!-- Add other technologies similarly -->
+- 🧠 **Agents Booster** — Designing the technical core of an enterprise platform for intelligent agents: LLM orchestration, integrations, automation pipelines, and observability.
+- 🏗️ **Dynecron** — Leading end-to-end delivery of AI & software projects: automotive ERP, multi-agent cognitive auditing platform, full-stack solutions with FastAPI + Next.js + LangChain on Docker/Kubernetes.
+- 🎓 **Universidad Felipe Villanueva** — Teaching 25+ active groups in 2026 across AI, Intelligent Agents, Neural Networks, Computer Vision, Pattern Recognition, OS, and Computer Architecture.
+
+---
+
+<h3 align="left">Tech Stack</h3>
+
+**AI / ML / GenAI**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+</p>
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+**Cloud / DevOps / MLOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+**Databases & Vector Stores**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 <h3 align="left">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afkerian&count_private=true&show_icons=true&theme=tokyonight" alt="Afkerian's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Afkerian&count_private=true&show_icons=true&theme=tokyonight" alt="Alejandro's GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afkerian&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" width="400"/>
 </p>
 
---- 
-
-<h3 align="left">Contributions</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afkerian&theme=tokyonight" alt="Afkerian's Contribution Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afkerian&theme=tokyonight" alt="Contribution Streak" width="400"/>
 </p>
 
-<h3 align="left">Achievements</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afkerian&theme=tokyonight&no-frame=true&row=1&column=6" alt="Afkerian's GitHub Trophies" width="600"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Afkerian&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="600"/>
 </p>
-
 
 ---
 
-<h3 align="left">Let's Connect</h3>
+<h3 align="left">Let's connect</h3>
 <p align="center">
-  Feel free to reach out to me on these platforms:
+  Open to collaborations on GenAI, multi-agent systems, and cloud-native AI architectures.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandromoya" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/alejandro-moya-barragan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="mailto:alejandro.moyab@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
   </a>
   <a href="https://github.com/Afkerian" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
   </a>
 </p>
 
-
 ---
 
-<p align="center">🚀 Founder of <strong>Dynecron</strong> | AI Vision Specialist | Open Source Contributor</p>
+<p align="center">⚡ <strong>CTO</strong> · <strong>GenAI Engineer</strong> · <strong>Solutions Architect</strong> · Quito, Ecuador 🇪🇨</p>
